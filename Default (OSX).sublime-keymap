@@ -1,4 +1,4 @@
 [
-    {"keys": ["ctrl+tab"], "command": "next_view_in_pane" },
-    {"keys": ["ctrl+shift+tab"], "command": "prev_view_in_pane" },
+    {"keys": ["super+pagedown"], "command": "next_view_in_pane" },
+    {"keys": ["super+pageup"], "command": "prev_view_in_pane" },
 ]

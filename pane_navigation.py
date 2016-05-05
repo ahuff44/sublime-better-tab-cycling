@@ -1,4 +1,4 @@
-""" Code adapted from https://github.com/borist/SublimePaneNavigation
+""" Adapted from https://github.com/borist/SublimePaneNavigation
 """
 
 import sublime

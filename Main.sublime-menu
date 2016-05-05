@@ -10,7 +10,7 @@
                 "id": "package-settings",
                 "children": [
                     {
-                        "caption": "PaneNavigation",
+                        "caption": "BetterTabCycling",
                         "children": [
                             {
                                 "caption": "-"
@@ -18,7 +18,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/PaneNavigation/Default (OSX).sublime-keymap",
+                                    "file": "${packages}/BetterTabCycling/Default (OSX).sublime-keymap",
                                     "platform": "OSX"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -26,7 +26,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/PaneNavigation/Default (Linux).sublime-keymap",
+                                    "file": "${packages}/BetterTabCycling/Default (Linux).sublime-keymap",
                                     "platform": "Linux"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -34,7 +34,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/PaneNavigation/Default (Windows).sublime-keymap",
+                                    "file": "${packages}/BetterTabCycling/Default (Windows).sublime-keymap",
                                     "platform": "Windows"
                                 },
                                 "caption": "Key Bindings – Default"
